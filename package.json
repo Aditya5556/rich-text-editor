@@ -1,0 +1,22 @@
+{
+  "name": "js-text-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^20.12.5",
+    "@types/socket.io": "^3.0.2",
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "monaco-editor": "^0.47.0",
+    "path": "^0.12.7",
+    "socket.io": "^4.7.5",
+    "ws": "^8.16.0"
+  }
+}
